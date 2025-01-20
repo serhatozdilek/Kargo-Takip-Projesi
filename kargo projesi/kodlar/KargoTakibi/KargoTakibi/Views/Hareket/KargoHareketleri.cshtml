@@ -1,0 +1,53 @@
+@model IEnumerable<KargoTakibi.Models.Hareket>
+
+@{
+    ViewData["Title"] = "Kargo Hareketleri";
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h3>Kargo Hareketleri</h3>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Tarih</th>
+                            <th>Durum</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var hareket in Model)
+                        {
+                            <tr>
+                                <td>@hareket.Tarih.ToString("dd.MM.yyyy HH:mm")</td>
+                                <td>
+                                    <span class="badge bg-primary">@hareket.Durum</span>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            @if (!Model.Any())
+            {
+                <div class="text-center mt-4">
+                    <p class="text-muted">Bu kargo için henüz hareket kaydı bulunmamaktadır.</p>
+                </div>
+            }
+        </div>
+        <div class="card-footer">
+            <div class="btn-group">
+                <a asp-controller="Kargo" asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left"></i> Kargolara Dön
+                </a>
+                <a asp-action="YeniHareket" asp-route-id="@Model.FirstOrDefault()?.KargoID" class="btn btn-primary">
+                    <i class="bi bi-plus"></i> Yeni Hareket Ekle
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

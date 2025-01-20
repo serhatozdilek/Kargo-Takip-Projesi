@@ -1,0 +1,94 @@
+@model KargoTakibi.Models.Kargo
+
+@{
+    ViewData["Title"] = "Yeni Kargo Ekle";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h3>Yeni Kargo Ekle</h3>
+            </div>
+            <div class="card-body">
+                <form asp-action="Ekle">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+                    <div class="form-group mb-3">
+                        <label asp-for="GondericiAd" class="form-label">Gönderici Adı</label>
+                        <input asp-for="GondericiAd" class="form-control" />
+                        <span asp-validation-for="GondericiAd" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="GondericiIl" class="form-label">Gönderici İli</label>
+                        <input asp-for="GondericiIl" class="form-control" />
+                        <span asp-validation-for="GondericiIl" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="GondericiIlce" class="form-label">Gönderici İlçesi</label>
+                        <input asp-for="GondericiIlce" class="form-control" />
+                        <span asp-validation-for="GondericiIlce" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="GondericiAdresi" class="form-label">Gönderici Adresi</label>
+                        <textarea asp-for="GondericiAdresi" class="form-control" rows="3"></textarea>
+                        <span asp-validation-for="GondericiAdresi" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="GondericiTelefonu" class="form-label">Gönderici Telefonu</label>
+                        <input asp-for="GondericiTelefonu" class="form-control" />
+                        <span asp-validation-for="GondericiTelefonu" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="AliciAd" class="form-label">Alıcı Adı</label>
+                        <input asp-for="AliciAd" class="form-control" />
+                        <span asp-validation-for="AliciAd" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="AliciIl" class="form-label">Alıcı İli</label>
+                        <input asp-for="AliciIl" class="form-control" />
+                        <span asp-validation-for="AliciIl" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="AliciIlce" class="form-label">Alıcı İlçesi</label>
+                        <input asp-for="AliciIlce" class="form-control" />
+                        <span asp-validation-for="AliciIlce" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="AliciAdresi" class="form-label">Alıcı Adresi</label>
+                        <textarea asp-for="AliciAdresi" class="form-control" rows="3"></textarea>
+                        <span asp-validation-for="AliciAdresi" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="AliciTelefonu" class="form-label">Alıcı Telefonu</label>
+                        <input asp-for="AliciTelefonu" class="form-control" />
+                        <span asp-validation-for="AliciTelefonu" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-save"></i> Kaydet
+                        </button>
+                        <a asp-action="Index" class="btn btn-secondary">
+                            <i class="bi bi-x"></i> İptal
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

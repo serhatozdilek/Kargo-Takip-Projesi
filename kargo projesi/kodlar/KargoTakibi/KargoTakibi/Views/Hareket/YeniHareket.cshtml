@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Yeni Hareket Ekle";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>Yeni Hareket Ekle</h3>
+            </div>
+            <div class="card-body">
+                <form asp-action="YeniHareket" method="post">
+                    <input type="hidden" name="kargoId" value="@ViewBag.KargoID" />
+
+                    <div class="form-group mb-3">
+                        <label class="form-label">Durum</label>
+                        <select name="durum" class="form-select">
+                            <option value="Kabul Edildi">Kabul Edildi</option>
+                            <option value="Yolda">Yolda</option>
+                            <option value="Dağıtımda">Dağıtımda</option>
+                            <option value="Teslim Edildi">Teslim Edildi</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-save"></i> Kaydet
+                        </button>
+                        <a asp-controller="Kargo" asp-action="Index" class="btn btn-secondary">
+                            <i class="bi bi-x"></i> İptal
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

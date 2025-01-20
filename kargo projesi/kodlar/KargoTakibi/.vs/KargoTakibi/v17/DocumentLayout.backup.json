@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\controllers\\hesapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\controllers\\hesapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\controllers\\hareketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\controllers\\hareketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\controllers\\kargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\controllers\\kargocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\models\\kargotakipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\models\\kargotakipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\models\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\models\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\models\\hareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\models\\hareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\kargo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\kargo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\kargo\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\kargo\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\kargo\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\kargo\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\kargo\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\kargo\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\hesap\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\hesap\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\hesap\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\hesap\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\hareket\\yenihareket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\hareket\\yenihareket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\hareket\\kargohareketleri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\hareket\\kargohareketleri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|c:\\users\\recep\\source\\repos\\kargotakibi\\kargotakibi\\views\\hareket\\hareketlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3305999-4ABF-4903-BA5D-7BBA4DA46C80}|KargoTakibi\\KargoTakibi.csproj|solutionrelative:kargotakibi\\views\\hareket\\hareketlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KargoTakibi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:10:24.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HareketController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\HareketController.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Controllers\\HareketController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\HareketController.cs",
+              "RelativeToolTip": "KargoTakibi\\Controllers\\HareketController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:09:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\appsettings.json",
+              "RelativeDocumentMoniker": "KargoTakibi\\appsettings.json",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\appsettings.json",
+              "RelativeToolTip": "KargoTakibi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T20:09:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:09:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:09:22.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:09:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:09:15.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Detay.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Kargo\\Detay.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Detay.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Kargo\\Detay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:49.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:46.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Kayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hesap\\Kayit.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Hesap\\Kayit.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hesap\\Kayit.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Hesap\\Kayit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:41.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hesap\\Giris.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Hesap\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hesap\\Giris.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Hesap\\Giris.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:38.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "YeniHareket.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hareket\\YeniHareket.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Hareket\\YeniHareket.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hareket\\YeniHareket.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Hareket\\YeniHareket.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KargoHareketleri.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hareket\\KargoHareketleri.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Hareket\\KargoHareketleri.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hareket\\KargoHareketleri.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Hareket\\KargoHareketleri.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T20:08:29.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hareket.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\Hareket.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Models\\Hareket.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\Hareket.cs",
+              "RelativeToolTip": "KargoTakibi\\Models\\Hareket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:07:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KargoTakibi\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:07:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Index.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Kargo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Index.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Kargo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T19:45:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Kargo\\Duzenle.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Duzenle.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Kargo\\Duzenle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T19:44:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HareketListesi.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hareket\\HareketListesi.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Hareket\\HareketListesi.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Hareket\\HareketListesi.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Hareket\\HareketListesi.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T19:44:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T19:20:55.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "KargoTakibi\\Views\\Kargo\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Views\\Kargo\\Ekle.cshtml",
+              "RelativeToolTip": "KargoTakibi\\Views\\Kargo\\Ekle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T19:20:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kargo.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\Kargo.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Models\\Kargo.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\Kargo.cs",
+              "RelativeToolTip": "KargoTakibi\\Models\\Kargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:19:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KargoController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\KargoController.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Controllers\\KargoController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\KargoController.cs",
+              "RelativeToolTip": "KargoTakibi\\Controllers\\KargoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAArwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:19:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\Kullanici.cs",
+              "RelativeToolTip": "KargoTakibi\\Models\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:18:00.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HesapController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\HesapController.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Controllers\\HesapController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Controllers\\HesapController.cs",
+              "RelativeToolTip": "KargoTakibi\\Controllers\\HesapController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAvwEAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:17:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Program.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Program.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Program.cs",
+              "RelativeToolTip": "KargoTakibi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:11:34.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KargoTakipContext.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\KargoTakipContext.cs",
+              "RelativeDocumentMoniker": "KargoTakibi\\Models\\KargoTakipContext.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\KargoTakibi\\KargoTakibi\\Models\\KargoTakipContext.cs",
+              "RelativeToolTip": "KargoTakibi\\Models\\KargoTakipContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:09:04.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

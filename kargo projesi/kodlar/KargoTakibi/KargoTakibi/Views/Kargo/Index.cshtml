@@ -1,0 +1,60 @@
+@model IEnumerable<KargoTakibi.Models.Kargo>
+
+@{
+    ViewData["Title"] = "Kargolarım";
+}
+
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Kargolarım</h2>
+        <a asp-action="Ekle" class="btn btn-primary">
+            <i class="bi bi-plus"></i> Yeni Kargo Ekle
+        </a>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Kargo Adı</th>
+                    <th>Alıcı Adresi</th>
+                    <th>Durum</th>
+                    <th>İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.AliciAd</td>
+                        <td>@item.AliciAdresi</td>
+                        <td>
+                            <span class="badge bg-primary">@item.Durum</span>
+                        </td>
+                        <td>
+                            <div class="btn-group">
+                                <a asp-action="Detay" asp-route-id="@item.KargoID" class="btn btn-sm btn-info">
+                                    <i class="bi bi-eye"></i> Detay
+                                </a>
+                                <a asp-action="Duzenle" asp-route-id="@item.KargoID" class="btn btn-sm btn-warning">
+                                    <i class="bi bi-pencil"></i> Düzenle
+                                </a>
+                                <a asp-controller="Hareket" asp-action="YeniHareket" asp-route-id="@item.KargoID" class="btn btn-sm btn-success">
+                                    <i class="bi bi-plus"></i> Hareket Ekle
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="text-center mt-4">
+            <p class="text-muted">Henüz kargo kaydınız bulunmamaktadır.</p>
+            <a asp-action="Ekle" class="btn btn-primary">İlk Kargonuzu Ekleyin</a>
+        </div>
+    }
+</div>

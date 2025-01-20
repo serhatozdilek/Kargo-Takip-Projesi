@@ -1,0 +1,89 @@
+@model KargoTakibi.Models.Kargo
+
+@{
+    ViewData["Title"] = "Kargo Detayı";
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h3>Kargo Detayı</h3>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <dl class="row">
+                        <dt class="col-sm-4">Gönderici Adı:</dt>
+                        <dd class="col-sm-8">@Model.GondericiAd</dd>
+
+                        <dt class="col-sm-4">Gönderici İli:</dt>
+                        <dd class="col-sm-8">@Model.GondericiIl</dd>
+
+                        <dt class="col-sm-4">Gönderici İlçesi:</dt>
+                        <dd class="col-sm-8">@Model.GondericiIlce</dd>
+
+                        <dt class="col-sm-4">Gönderici Adresi:</dt>
+                        <dd class="col-sm-8">@Model.GondericiAdresi</dd>
+
+                        <dt class="col-sm-4">Gönderici Telefonu:</dt>
+                        <dd class="col-sm-8">@Model.GondericiTelefonu</dd>
+
+                        <dt class="col-sm-4">Alıcı Adı:</dt>
+                        <dd class="col-sm-8">@Model.AliciAd</dd>
+
+                        <dt class="col-sm-4">Alıcı İli:</dt>
+                        <dd class="col-sm-8">@Model.AliciIl</dd>
+
+                        <dt class="col-sm-4">Alıcı İlçesi:</dt>
+                        <dd class="col-sm-8">@Model.AliciIlce</dd>
+
+                        <dt class="col-sm-4">Alıcı Adresi:</dt>
+                        <dd class="col-sm-8">@Model.AliciAdresi</dd>
+
+                        <dt class="col-sm-4">Alıcı Telefonu:</dt>
+                        <dd class="col-sm-8">@Model.AliciTelefonu</dd>
+
+                        <dt class="col-sm-4">Mevcut Durum:</dt>
+                        <dd class="col-sm-8">
+                            <span class="badge bg-primary">@Model.Durum</span>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+
+            <h4 class="mt-4">Kargo Hareketleri</h4>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Tarih</th>
+                            <th>Durum</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var hareket in Model.Hareketler.OrderByDescending(h => h.Tarih))
+                        {
+                            <tr>
+                                <td>@hareket.Tarih.ToString("dd.MM.yyyy HH:mm")</td>
+                                <td>@hareket.Durum</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="btn-group">
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left"></i> Geri
+                </a>
+                <a asp-action="Duzenle" asp-route-id="@Model.KargoID" class="btn btn-warning">
+                    <i class="bi bi-pencil"></i> Düzenle
+                </a>
+                <a asp-controller="Hareket" asp-action="YeniHareket" asp-route-id="@Model.KargoID" class="btn btn-success">
+                    <i class="bi bi-plus"></i> Hareket Ekle
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
